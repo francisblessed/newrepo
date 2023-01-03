@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.2-SNAPSHOT</version> 
+	<version>0.0.2</version> 
 	
 	<name>maven-web-application</name>
 
@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.67.230:8282/mylocaltech/repository/mavenweb/</url>
+	      <url>http://44.210.20.76:8282/mylocaltech/repository/mavenweb/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.67.230:8282/mylocaltech/repository/mavenwebapp-snapshot/</url>
+	      <url>http://44.210.20.76:8282/mylocaltech/repository/mavenwebapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
